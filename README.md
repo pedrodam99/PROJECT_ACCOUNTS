@@ -1,7 +1,7 @@
 <h1>📚 Projeto Accounts</h1>
 
 Projeto de estudo simples, apenas para exercitar a lógica e alguns conceitos importantes importantes do Node.
-Esse projetinho faz uma simulação das operações simples de um banco. Tem as funcionalidades de:
+Esse projetinho faz uma simulação das operações simples de um caixa eletronico. Tem as funcionalidades de:
 - criar conta;
 - consultar o saldo;
 - depositar valor;
